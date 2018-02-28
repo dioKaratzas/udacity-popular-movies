@@ -146,4 +146,4 @@ fabric.properties
 # End of https://www.gitignore.io/api/android,androidstudio
 
 ### Dont include API Keys ###
-# gradle.properties
+gradle.properties
